@@ -16,3 +16,6 @@ a {
   margin: 15px;
   color: black;
 }
+a #email-link {
+  padding: 0;
+}
